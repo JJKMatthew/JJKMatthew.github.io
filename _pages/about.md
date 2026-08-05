@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-Hi, I'm **Junkun Jiang** (姜俊坤). I am currently a senior undergraduate student at [Southwest Jiaotong University](https://www.swjtu.edu.cn/) (2023–present), and I work as a SLAM algorithm research intern at the [Institute for AI Industry Research (AIR), Tsinghua University](https://www.air.tsinghua.edu.cn/). Previously, I developed algorithms for the RoboMaster sentry robot of Team Helios, and I interned at Momenta (Hangzhou).
+Hi, I'm **Junkun Jiang** (姜俊坤). I am currently a senior undergraduate student at [Southwest Jiaotong University](https://www.swjtu.edu.cn/) (2023–present), and I work as a SLAM algorithm research intern at [Tsinghua University AIR](https://www.air.tsinghua.edu.cn/). Previously, I developed algorithms for the RoboMaster sentry robot of Team Helios, and I interned at Momenta (Hangzhou).
 
 My research interests include the areas of Robotics and Machine Learning, with a focus on:
 
@@ -26,7 +26,7 @@ My research interests include the areas of Robotics and Machine Learning, with a
 
 ## Internship
 
-* **Momenta** — MSF (Multi-Sensor Fusion) Camera Service (performance rating: A)
+* **Momenta** — MSF Camera Service (2025.1 – 2025.5, performance rating: A)
 
 ## Honors & Awards
 
