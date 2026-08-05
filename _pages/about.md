@@ -17,7 +17,7 @@ My research interests include the areas of Robotics and Machine Learning, with a
 * Localization and state estimation
 * Deep learning
 
-<p style="font-weight: bold; color: #FFD700;">I expect to graduate in 2027, and I am open to both academic and industrial positions. If you are interested, please feel free to contact me. I always welcome potential collaborations — reach me at <a href="mailto:junkun721@outlook.com" style="color: #FFD700;">junkun721@outlook.com</a> :)</p>
+<p style="font-weight: bold; color: #FFD700;">I expect to graduate in 2027, and I am open to both academic and industrial positions. If you are interested, please feel free to contact me. I always welcome potential collaborations — reach me at <a href="mailto:junkun721@outlook.com">junkun721@outlook.com</a> :)</p>
 
 ## Education
 
