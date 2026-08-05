@@ -11,54 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Eng., Southwest Jiaotong University, 2023 – present
+  * Major: Traffic Engineering, School of Transportation and Logistics
 
-Work experience
+Research / Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025 – present: SLAM Algorithm Research Intern
+  * Institute for AI Industry Research (AIR), Tsinghua University
+  * Focus: SLAM, state estimation
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024 – 2025: Sentry Robot Algorithm Developer
+  * Team Helios, RoboMaster
+  * Focus: algorithm development for the RoboMaster sentry robot
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2024 – present: Intern
+  * Momenta (Hangzhou)
+  * MSF (Multi-Sensor Fusion) Camera Service (performance rating: A)
 
-Publications
+Honors & Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Mingcheng Award, Southwest Jiaotong University, 2024–2025
+* National Second Prize, 3V3 Competition, RoboMaster 2025 University League Championship (May 2025)
+* National Third Prize, Sentinel Robot Team, RoboMaster 2025 Super Competition (July 2025)
+* National Third Prize, Aerial Robot Team, RoboMaster 2025 Super Competition (July 2025)
