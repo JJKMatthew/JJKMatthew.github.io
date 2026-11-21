@@ -19,7 +19,7 @@ My research interests include the areas of Robotics and Machine Learning, with a
 
 <p style="font-weight: bold; color: #FFD700;">I expect to graduate in 2027, and I am open to both academic and industrial positions. If you are interested, please feel free to contact me.</p>
 
-I always welcome potential collaborations — reach me at [junkun721@outlook.com](mailto:junkun721@outlook.com) :)
+I always welcome potential collaborations — reach me at [junkunjiang27@163.com](mailto:junkunjiang27@163.com) :)
 
 ## Education
 

@@ -1,5 +1,5 @@
 ---
-title: "LepidIO: Learning-Based Phased-Informed Dynamic Inertial Odometry for Flapping-Wing-Robots"
+title: "LepidIO : Learning-Based Phase-Informed Dynamic Inertial Odometry for Flapping-Wing Robots"
 collection: publications
 category: conferences
 permalink: /publications/lepidio/
