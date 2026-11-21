@@ -28,7 +28,7 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}">{{ title }}</a>{% unless post.collection == 'portfolio' %} <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>{% endunless %}
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
@@ -56,6 +56,21 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
+    {% if post.collection == 'portfolio' %}
+      {% if post.video_url and post.video_url != empty %}
+        <div style="width:100%;max-width:800px;margin:1.25rem auto 2rem;">
+          <video controls playsinline preload="metadata" aria-label="{{ post.title | escape }}" style="display:block;width:100%;height:auto;">
+            <source src="{{ post.video_url | relative_url }}" type="video/mp4">
+            <a href="{{ post.video_url | relative_url }}">Watch the demo</a>
+          </video>
+        </div>
+      {% elsif post.demo_image %}
+        <div style="width:100%;max-width:800px;margin:1.25rem auto 2rem;">
+          <img src="{{ post.demo_image | relative_url }}" alt="{{ post.demo_alt | escape }}" loading="lazy" style="display:block;width:100%;height:auto;">
+        </div>
+      {% endif %}
+    {% endif %}
+
     {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.citation and post.paperurl and post.slidesurl %}

@@ -3,11 +3,12 @@ title: "LepidIO : Learning-Based Phase-Informed Dynamic Inertial Odometry for Fl
 collection: portfolio
 permalink: /portfolio/lepidio/
 excerpt: "A research project supported by Tsinghua University's SLAM Training Camp (July–August 2026). LepidIO combines IMU, flapping phase, and wing-angle measurements in a lightweight TCN–GRU framework for 3D inertial odometry. **First author · ICRA 2027 submission under review.**"
-code_url: ""
+link: "https://github.com/NEAR-the-future/LepidIO"
+code_url: "https://github.com/NEAR-the-future/LepidIO"
 video_url: "/assets/videos/lepidio-visual-abstract.mp4"
 ---
 
-**Tsinghua University SLAM Training Camp · July–August 2026 · First author**
+**Tsinghua University  · 07/2026 - 09/2026 · First author**
 
 LepidIO addresses strong flapping disturbances and inertial drift on payload-constrained flapping-wing robots. It combines IMU, flapping phase, and wing-angle measurements in a multi-branch causal TCN–GRU architecture to predict body-frame 3D relative displacement over a one-second window.
 
