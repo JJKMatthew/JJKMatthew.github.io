@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-Hi, I'm **Junkun Jiang** (姜俊坤). I am currently a senior undergraduate student at [Southwest Jiaotong University](https://www.swjtu.edu.cn/) (2023–present), and I work as a SLAM algorithm research intern at [Tsinghua University AIR](https://www.air.tsinghua.edu.cn/). Previously, I developed algorithms for the RoboMaster sentry robot of Team Helios, and I interned at Momenta (Hangzhou).
+Hi, I'm **Junkun Jiang** (姜俊坤), a final-year undergraduate student at [Southwest Jiaotong University](https://www.swjtu.edu.cn/), expecting to graduate in 2027. I am currently a **Robotics Development Intern at Light Origin**, working on embedded software and vision systems for robotic platforms. Previously, I worked on learning-based inertial odometry for flapping-wing robots at [Tsinghua University AIR](https://www.air.tsinghua.edu.cn/), interned at **Momenta**, and developed autonomous navigation and decision-making algorithms for **Team Helios's RoboMaster sentry robot**.
 
 My research interests include the areas of Robotics and Machine Learning, with a focus on:
 
