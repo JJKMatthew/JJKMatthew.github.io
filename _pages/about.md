@@ -32,22 +32,22 @@ I always welcome potential collaborations — reach me at [junkunjiang27@163.com
   <li class="experience-timeline__current">
     <span class="experience-timeline__date">2026.11–Present</span>
     <div class="experience-timeline__role"><strong>Light Origin</strong><br>Robotics Development Intern</div>
-    <img class="experience-timeline__logo" src="{{ '/logo/Light Origin.png' | relative_url }}" alt="Light Origin logo" width="56" height="56" loading="lazy">
+    <img class="experience-timeline__logo" src="{{ '/images/experience/light-origin.png' | relative_url }}" alt="Light Origin logo" width="56" height="56" loading="lazy">
   </li>
   <li>
     <span class="experience-timeline__date">2026.07–2026.10</span>
     <div class="experience-timeline__role"><strong>Tsinghua University AIR</strong><br>SLAM Algorithm Research Intern</div>
-    <img class="experience-timeline__logo" src="{{ '/logo/Tsinghua.png' | relative_url }}" alt="Tsinghua University logo" width="56" height="56" loading="lazy">
+    <img class="experience-timeline__logo" src="{{ '/images/experience/tsinghua.png' | relative_url }}" alt="Tsinghua University logo" width="56" height="56" loading="lazy">
   </li>
   <li>
     <span class="experience-timeline__date">2026.01–2026.05</span>
     <div class="experience-timeline__role"><strong>Momenta</strong><br>Camera Service R&amp;D Intern</div>
-    <img class="experience-timeline__logo" src="{{ '/logo/Momenta.png' | relative_url }}" alt="Momenta logo" width="56" height="56" loading="lazy">
+    <img class="experience-timeline__logo" src="{{ '/images/experience/momenta.png' | relative_url }}" alt="Momenta logo" width="56" height="56" loading="lazy">
   </li>
   <li>
     <span class="experience-timeline__date">2023.12–2025.07</span>
     <div class="experience-timeline__role"><strong>Team Helios · RoboMaster</strong><br>Sentry Robot Algorithm Developer</div>
-    <img class="experience-timeline__logo" src="{{ '/logo/西南交通大学-emblem-003.png' | relative_url }}" alt="Southwest Jiaotong University emblem" width="56" height="56" loading="lazy">
+    <img class="experience-timeline__logo" src="{{ '/images/experience/swjtu.png' | relative_url }}" alt="Southwest Jiaotong University emblem" width="56" height="56" loading="lazy">
   </li>
 </ol>
 
