@@ -26,9 +26,26 @@ I always welcome potential collaborations — reach me at [junkunjiang27@163.com
 * **B.Eng.**, Southwest Jiaotong University, 2023 – present
   * Major: Traffic Engineering, School of Transportation and Logistics
 
-## Internship
+## Experience
 
-* **Momenta** — MSF Camera Service (2025.1 – 2025.5, performance rating: A)
+<ol class="experience-timeline">
+  <li class="experience-timeline__current">
+    <span class="experience-timeline__date">2026.11–Present</span>
+    <div class="experience-timeline__role"><strong>Light Origin</strong><br>Robotics Development Intern</div>
+  </li>
+  <li>
+    <span class="experience-timeline__date">2026.07–2026.10</span>
+    <div class="experience-timeline__role"><strong>Tsinghua University AIR</strong><br>SLAM Algorithm Research Intern</div>
+  </li>
+  <li>
+    <span class="experience-timeline__date">2026.01–2026.05</span>
+    <div class="experience-timeline__role"><strong>Momenta</strong><br>Camera Service R&amp;D Intern</div>
+  </li>
+  <li>
+    <span class="experience-timeline__date">2023.12–2025.07</span>
+    <div class="experience-timeline__role"><strong>Team Helios · RoboMaster</strong><br>Sentry Robot Algorithm Developer</div>
+  </li>
+</ol>
 
 ## Honors & Awards
 

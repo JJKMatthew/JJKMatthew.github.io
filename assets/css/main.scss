@@ -37,3 +37,52 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+.page__content .experience-timeline {
+  list-style: none;
+  margin: 1.5em 0;
+  padding: 0;
+
+  li {
+    position: relative;
+    display: grid;
+    grid-template-columns: 10.5em minmax(0, 1fr);
+    margin: 0;
+    padding: 0 0 1.6em;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: 10em;
+      top: .65em;
+      bottom: -.65em;
+      border-left: 1px solid var(--global-border-color, #b8c4ca);
+    }
+
+    &::after {
+      content: "";
+      position: absolute;
+      left: calc(10em - 4px);
+      top: calc(.65em - 4px);
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      background: #52adc8;
+    }
+
+    &:last-child { padding-bottom: 0; }
+    &:last-child::before { display: none; }
+  }
+
+  .experience-timeline__date { font-size: .85em; padding-top: .15em; }
+  .experience-timeline__role { padding-left: 1em; }
+  .experience-timeline__current::after { box-shadow: 0 0 0 4px rgba(82, 173, 200, .2); }
+
+  @media (max-width: 600px) {
+    li { grid-template-columns: minmax(0, 1fr); padding-left: 1.5em; }
+    li::before { left: 4px; }
+    li::after { left: 0; }
+    .experience-timeline__role { padding-left: 0; }
+    .experience-timeline__date { margin-bottom: .3em; }
+  }
+}
